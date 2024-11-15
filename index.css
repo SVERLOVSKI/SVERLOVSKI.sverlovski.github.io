@@ -1,6 +1,6 @@
 body {
     background-color: #FFFFFF;
-    /* background-image: URL(); */
+    background-image: URL(images/background.jpg);
     font-family: "Arial", "Verdana", sans-serif;
 }
 
